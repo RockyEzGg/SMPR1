@@ -24,7 +24,7 @@ Some of them are observed in this research:
    - Parzen window algorithm with variable window width
  3. Potential funcion algorithm
 
-Algorithms are tested on standard **R** *iris* data set (Fisher's Iris data set). Plots are presented in petal.length, petal.width coordinate space
+Algorithms are tested on standard **R** *iris* data set (Fisher's Iris data set). Plots are presented in petal.length, petal.width coordinate space.
 
 Data compression methods are addressed by the example of STOLP algorithm.
 At the end presented algorithms are compared in terms of generalization performance.
